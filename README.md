@@ -12,24 +12,24 @@ Esse não é um site de uma empresa real.
 
 # Algumas imagens do projeto finalizado
 
-![capa](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/capa.png)
+![capa](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/capa.png)
 
-![seção 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/secao1.png)
+![seção 1](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/secao1.png)
 
-![seção 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/secao2.png)
+![seção 2](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/secao2.png)
 
-![rodapé](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/secao3.png)
+![rodapé](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/secao3.png)
 
 # Responsividade
 
-![capa 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo.png)
+![capa 1](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo.png)
 
-![capa 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo2.png)
+![capa 2](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo2.png)
 
-![conteúdo 1](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo3.png)
+![conteúdo 1](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo3.png)
 
-![conteúdo 2](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo4.png)
+![conteúdo 2](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo4.png)
 
-![conteudo 3](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo5.png)
+![conteudo 3](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo5.png)
 
-![conteúdo 4](https://github.com/LucasSilvaMarts/Projetos-front-end/blob/master/Projeto%20Finans/Screenshot/responsivo6.png)
+![conteúdo 4](https://github.com/LucasSilvaMarts/Projeto-Finans/blob/master/Screenshot/responsivo6.png)
